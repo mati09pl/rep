@@ -1,2 +1,2 @@
 #pygame_shooter
--python
+

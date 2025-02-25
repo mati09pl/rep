@@ -1,2 +1,2 @@
-# rep
-pygame shooter
+pygame_shooter
+python
